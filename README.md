@@ -36,7 +36,7 @@ dataset.hist()
 pyplot.show
 #multivariate plots
 scatter_matrix(dataset)
-pyplot.show()
+pyplot.show() 
 #creating a validation dataset
 #splitting dataset
 array = dataset.values
